@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IntakeQ3
+comment1.params=
+comment1.target=IntakeQ3()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ windowSize()
+comment4.params=
+comment4.target=void\ icon()
+comment5.params=
+comment5.target=void\ backImage()
+numComments=6
