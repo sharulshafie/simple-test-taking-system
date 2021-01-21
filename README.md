@@ -1,2 +1,2 @@
 # simple-test-taking-system
-This is my first java project, its a simple testing system 
+This is my first java project, its a simple testing taking system 
